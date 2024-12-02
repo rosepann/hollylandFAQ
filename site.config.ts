@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   //twitter: '',
-  github: 'rosepann',
+  //github: 'rosepann',
   //linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
